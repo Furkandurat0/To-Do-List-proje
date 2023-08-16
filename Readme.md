@@ -7,5 +7,5 @@
 <p>``HTML`` ``CSS`` ``JAVASCRIPT``
 
 
-<img src="ezgif.com-video-to-gif (1).gif"# To-Do-List-proje
-# To-Do-List-proje
+<img src="ezgif.com-video-to-gif (1).gif"/>
+
